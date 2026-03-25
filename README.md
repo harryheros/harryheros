@@ -6,6 +6,8 @@ Building data-driven infrastructure for networking, routing, and internet-scale 
 
 ## Projects
 
+A unified infrastructure toolkit spanning IP intelligence, domain attribution, and system deployment.
+
 ### IPNova  
 Routing-aware IPv4 dataset for infrastructure classification and traffic control  
 https://github.com/harryheros/ipnova
