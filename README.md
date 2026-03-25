@@ -1,6 +1,6 @@
 # Harry 👁
 
-Building data-driven infrastructure for networking, routing, and system deployment.
+Building data-driven infrastructure for networking, routing, and internet-scale systems.
 
 ---
 
