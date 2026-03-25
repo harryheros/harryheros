@@ -1,6 +1,6 @@
 # Harry 👁
 
-Building data-driven infrastructure for networking, routing, and system control.
+Building data-driven infrastructure for networking, routing, and system deployment.
 
 ---
 
@@ -14,9 +14,9 @@ https://github.com/harryheros/ipnova
 Multi-signal domain dataset for identifying China-associated internet infrastructure  
 https://github.com/harryheros/domainnova
 
-### LinuxTools  
-Automated Linux provisioning and reinstall toolkit for VPS and bare-metal systems  
-https://github.com/harryheros/linuxtools
+### OsNova  
+System deployment and reinstallation engine for VPS and bare-metal servers  
+https://github.com/harryheros/OsNova
 
 ### HarryWrt  
 Clean OpenWrt-based firmware for x86_64 environments (BIOS & UEFI)  
