@@ -16,7 +16,7 @@ https://github.com/harryheros/domainnova
 
 ### OsNova  
 System deployment and reinstallation engine for VPS and bare-metal servers  
-https://github.com/harryheros/OsNova
+https://github.com/harryheros/osnova
 
 ### HarryWrt  
 Clean OpenWrt-based firmware for x86_64 environments (BIOS & UEFI)  
