@@ -1,52 +1,41 @@
 # Harry 👁
 
-Building data-driven infrastructure for networking, routing, and internet-scale systems.
+Building infrastructure-focused tools for networking, routing, and system deployment.
 
 ---
 
 ## Projects
 
-A unified infrastructure toolkit spanning IP intelligence, domain attribution, and system deployment.
-
-### IPNova  
-Routing-aware IPv4 dataset for infrastructure classification and traffic control  
-https://github.com/harryheros/ipnova
-
-### DomainNova  
-Multi-signal domain dataset for identifying China-associated internet infrastructure  
-https://github.com/harryheros/domainnova
-
-### OsNova  
-System deployment and reinstallation engine for VPS and bare-metal servers  
+### OsNova
+System deployment and reinstallation engine for VPS and bare-metal servers.  
 https://github.com/harryheros/osnova
 
-### HarryWrt  
-Clean OpenWrt-based firmware for x86_64 environments (BIOS & UEFI)  
+### IPNova
+Routing-aware IPv4 dataset for infrastructure classification and traffic control.  
+https://github.com/harryheros/ipnova
+
+### DomainNova
+Self-evolving dataset of domains associated with Chinese internet infrastructure, ranked by confidence.  
+https://github.com/harryheros/domainnova
+
+### HarryWrt
+Clean OpenWrt-based firmware for x86_64 and aarch64 (BIOS & UEFI).  
 https://github.com/harryheros/harrywrt
 
 ---
 
 ## Focus
 
-- Network infrastructure intelligence  
-- Routing and traffic classification  
-- Infrastructure attribution (IP / domain)  
-- System deployment and automation  
-
----
-
-## Approach
-
-- Data-driven, not rule-based  
-- Transparent and reproducible pipelines  
-- Minimal assumptions, signal-based inference  
-- Designed for real-world network environments  
+- Network infrastructure
+- Routing and traffic control
+- System deployment automation
+- Open-source tooling
 
 ---
 
 ## Philosophy
 
-Simple. Observable. Reproducible.
+Simple. Transparent. Reproducible.
 
 ---
 
