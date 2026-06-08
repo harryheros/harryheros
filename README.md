@@ -6,21 +6,19 @@ Building data-driven infrastructure for network intelligence, attribution, secur
 
 ## Architecture
 
-Nova is a collection of infrastructure-focused projects organized in three layers:
+Nova is a collection of infrastructure-focused projects organized in two layers:
 
 | Layer | Project | Description |
 |---|---|---|
 | **Data** | [IPNova](https://github.com/harryheros/ipnova) | Routing-aware IPv4 dataset for Asia-Pacific infrastructure attribution and network intelligence |
 | **Data** | [DomainNova](https://github.com/harryheros/domainnova) | Domain intelligence dataset for infrastructure attribution, compliance, security, and network analysis |
-| **Policy** | [ShieldNova](https://github.com/harryheros/shieldnova) | Compatibility-first domain intelligence for privacy, ad blocking, and security |
+| **Data** | [ShieldNova](https://github.com/harryheros/shieldnova) | Compatibility-first domain intelligence for privacy, ad blocking, and security |
 | **Execution** | [HarryWrt](https://github.com/harryheros/harrywrt) | Clean OpenWrt-based firmware for x86_64 and aarch64 (BIOS & UEFI) |
 | **Execution** | [OSNova](https://github.com/harryheros/osnova) | System deployment and reinstallation engine for VPS and bare-metal servers |
 
 **Data** — structured datasets and attribution systems for infrastructure intelligence.
 
-**Policy** — security and filtering intelligence built on top of infrastructure data.
-
-**Execution** — systems that deploy and enforce policies at the device and operating-system level.
+**Execution** — systems that deploy and operate at the device and operating-system level.
 
 ---
 
