@@ -6,17 +6,20 @@ Building data-driven infrastructure for network intelligence, attribution, secur
 
 ## Architecture
 
-Nova is a collection of infrastructure-focused projects organized in two layers:
+Nova is a collection of infrastructure-focused projects organized in three layers:
 
 | Layer | Project | Description |
 |---|---|---|
 | **Data** | [IPNova](https://github.com/harryheros/ipnova) | Routing-aware IPv4 dataset for Asia-Pacific infrastructure attribution and network intelligence |
 | **Data** | [DomainNova](https://github.com/harryheros/domainnova) | Domain intelligence dataset for infrastructure attribution, compliance, security, and network analysis |
 | **Data** | [ShieldNova](https://github.com/harryheros/shieldnova) | Compatibility-first domain intelligence for privacy, ad blocking, and security |
-| **Execution** | [HarryWrt](https://github.com/harryheros/harrywrt) | Clean OpenWrt-based firmware for x86_64 and aarch64 (BIOS & UEFI) |
-| **Execution** | [OSNova](https://github.com/harryheros/osnova) | System deployment and reinstallation engine for VPS and bare-metal servers |
+| **Distribution** | [RuleNova](https://github.com/harryheros/rulenova) | Policy-routing rule sets generated from IPNova and DomainNova, delivered in native formats for seven network clients |
+| **Execution** | [HarryWrt](https://github.com/harryheros/harrywrt) | Clean OpenWrt-based firmware for x86_64, NanoPi and Raspberry Pi boards, and ARM64 VMs |
+| **Execution** | [OsNova](https://github.com/harryheros/osnova) | System deployment and reinstallation engine for VPS and bare-metal servers |
 
 **Data** — structured datasets and attribution systems for infrastructure intelligence.
+
+**Distribution** — the datasets, generated into ready-to-use formats for the tools that consume them.
 
 **Execution** — systems that deploy and operate at the device and operating-system level.
 
@@ -34,12 +37,6 @@ Nova is a collection of infrastructure-focused projects organized in two layers:
 ## Philosophy
 
 Simple. Transparent. Reproducible.
-
----
-
-## Community Projects
-
-The broader ecosystem also includes downstream community projects built from public Nova datasets and outputs. These projects are maintained independently and are not part of the core Nova infrastructure stack.
 
 ---
 
