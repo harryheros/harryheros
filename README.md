@@ -10,7 +10,8 @@ Nova is a collection of infrastructure-focused projects organized in three layer
 
 | Layer | Project | Description |
 |---|---|---|
-| **Data** | [IPNova](https://github.com/harryheros/ipnova) | Routing-aware IPv4 dataset for Asia-Pacific infrastructure attribution and network intelligence |
+| **Data** | [IPNova](https://github.com/harryheros/ipnova) | Routing-aware IP dataset: refined Asia-Pacific regions plus global country data from all five RIRs. IPv4 + IPv6.
+ |
 | **Data** | [DomainNova](https://github.com/harryheros/domainnova) | Domain intelligence dataset for infrastructure attribution, compliance, security, and network analysis |
 | **Data** | [ShieldNova](https://github.com/harryheros/shieldnova) | Compatibility-first domain intelligence for privacy, ad blocking, and security |
 | **Distribution** | [RuleNova](https://github.com/harryheros/rulenova) | Policy-routing rule sets generated from IPNova and DomainNova, delivered in native formats for seven network clients |
