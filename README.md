@@ -16,12 +16,13 @@ Nova is a collection of infrastructure-focused projects organized in three layer
 | **Distribution** | [RuleNova](https://github.com/harryheros/rulenova) | Policy-routing rule sets generated from IPNova and DomainNova, delivered in native formats for seven network clients |
 | **Execution** | [HarryWrt](https://github.com/harryheros/harrywrt) | Clean OpenWrt-based firmware for x86_64, NanoPi and Raspberry Pi boards, and ARM64 VMs |
 | **Execution** | [OsNova](https://github.com/harryheros/osnova) | System deployment and reinstallation engine for VPS and bare-metal servers |
+| **Execution** | [DNSNova](https://github.com/harryheros/dnsnova) | Secure, lightweight forwarding DNS server with DoT, DoH and DoQ for public and private resolvers |
 
 **Data** — structured datasets and attribution systems for infrastructure intelligence.
 
 **Distribution** — the datasets, generated into ready-to-use formats for the tools that consume them.
 
-**Execution** — systems that deploy and operate at the device and operating-system level.
+**Execution** — systems that deploy and operate at the device, operating-system and network-service level.
 
 ---
 
