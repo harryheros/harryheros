@@ -13,7 +13,7 @@ Nova is a collection of infrastructure-focused projects organized in three layer
 | **Data** | [IPNova](https://github.com/harryheros/ipnova) | Routing-aware IP dataset: refined Asia-Pacific regions plus global country data from all five RIRs. IPv4 + IPv6. |
 | **Data** | [DomainNova](https://github.com/harryheros/domainnova) | Domain intelligence dataset for infrastructure attribution, compliance, security, and network analysis |
 | **Data** | [ShieldNova](https://github.com/harryheros/shieldnova) | Compatibility-first domain filter lists for privacy, ad blocking, and security |
-| **Distribution** | [RuleNova](https://github.com/harryheros/rulenova) | Policy-routing rule sets generated from IPNova and DomainNova, delivered in native formats for seven network clients |
+| **Distribution** | [RuleNova](https://github.com/harryheros/rulenova) | Region-based routing rule sets built from IPNova and DomainNova data, in native formats for seven network clients |
 | **Execution** | [HarryWrt](https://github.com/harryheros/harrywrt) | Clean OpenWrt-based firmware for x86_64, NanoPi and Raspberry Pi boards, and ARM64 VMs |
 | **Execution** | [OsNova](https://github.com/harryheros/osnova) | System deployment and reinstallation engine for VPS and bare-metal servers |
 | **Execution** | [DNSNova](https://github.com/harryheros/dnsnova) | Secure, lightweight DNS server that resolves from the root with DNSSEC or forwards to upstreams, with DoT, DoH and DoQ, for public and private resolvers |
@@ -39,4 +39,4 @@ Nova is a collection of infrastructure-focused projects organized in three layer
 
 GitHub Issues are the preferred way to reach me.
 
-Commercial licenses for IPNova, DomainNova, ShieldNova, RuleNova and DNSNova: [novaod.com/licensing](https://novaod.com/licensing).
+Commercial licenses for IPNova, DomainNova, ShieldNova and DNSNova: [novaod.com/licensing](https://novaod.com/licensing).
